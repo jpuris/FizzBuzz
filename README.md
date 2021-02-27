@@ -1,5 +1,5 @@
 # FizzBuzz
-Python implementation for FizzBuzz with customisable rules
+Python implementation for FizzBuzz with customisable rules. For more info see (Wikipedia article)[https://en.wikipedia.org/wiki/Fizz_buzz]
 
 ## Requirements
 - Python 3
