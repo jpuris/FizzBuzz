@@ -1,5 +1,5 @@
 # FizzBuzz
-Python implementation for FizzBuzz with customisable rules. For more info see (Wikipedia article)[https://en.wikipedia.org/wiki/Fizz_buzz]
+Python implementation for FizzBuzz with customisable rules. For more info see [Wikipedia article](https://en.wikipedia.org/wiki/Fizz_buzz)
 
 ## Requirements
 - Python 3
@@ -25,4 +25,4 @@ optional arguments:
 This project has no significance. I was bored.. :)
 
 ## License
-(MIT)[LICENSE]
+[MIT](LICENSE)
